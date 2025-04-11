@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-10T19:21:13 IST" name="Default suite" finished-at="2025-04-10T19:21:27 IST" duration-ms="13300">
+    <groups>
+    </groups>
+    <test started-at="2025-04-10T19:21:13 IST" name="Default test" finished-at="2025-04-10T19:21:27 IST" duration-ms="13300">
+      <class name="tesng.varifyuser">
+        <test-method is-config="true" signature="login()[pri:0, instance:tesng.varifyuser@31edaa7d]" started-at="2025-04-10T19:21:13 IST" name="login" finished-at="2025-04-10T19:21:21 IST" duration-ms="7950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="adminpage()[pri:0, instance:tesng.varifyuser@31edaa7d]" started-at="2025-04-10T19:21:21 IST" name="adminpage" finished-at="2025-04-10T19:21:25 IST" duration-ms="3225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminpage -->
+        <test-method signature="varify()[pri:0, instance:tesng.varifyuser@31edaa7d]" started-at="2025-04-10T19:21:25 IST" name="varify" finished-at="2025-04-10T19:21:26 IST" duration-ms="1043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varify -->
+        <test-method is-config="true" signature="closepage()[pri:0, instance:tesng.varifyuser@31edaa7d]" started-at="2025-04-10T19:21:26 IST" name="closepage" finished-at="2025-04-10T19:21:26 IST" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closepage -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:tesng.varifyuser@31edaa7d]" started-at="2025-04-10T19:21:26 IST" name="closebrowser" finished-at="2025-04-10T19:21:27 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- tesng.varifyuser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
