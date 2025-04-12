@@ -164,7 +164,7 @@ public class employeesection_java {
 	}
 	public void confirmpassword() {
 		cpwd.sendKeys("Sparsh@123");
-	
+	/*
 		File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		 File destination = new File("Downloads.png");
 
@@ -173,13 +173,13 @@ public class employeesection_java {
 			            FileUtils.copyFile(screenshot, destination);
 			            System.out.println("Screenshot saved at: " + destination.getAbsolutePath());
 			        } catch (IOException e) {
-			            e.printStackTrace();
+			            e.printStackTrace();*/
 
 	
 		
 			        }
 		
-	}
+	
 	public void proceed() {
 		proceed.click();
 	}
