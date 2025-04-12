@@ -39,7 +39,17 @@ public class base_java {
 	c.lastname();
 	c.email();
 	c.selectbutton();
+	c.Gender();
+c.dateofbirth();
 	
+	c.contractnumber();
+	c.country();
+	c.address();
+	c.city();
+	c.password();
+	c.confirmpassword();
+	c.proceed();
+	c.uservarify();
 	}
 }
 
